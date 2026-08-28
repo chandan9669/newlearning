@@ -16,8 +16,8 @@
 ## Month 1 — Stage A core + START interviewing
 Goal: building tests daily; applying to jobs by week 3.
 
-- Week 1: Trailhead Provar module + Python-for-testing refresh. Spin up a SF Developer Edition org. Write first 5 pytest tests.
-- Week 2: pytest deep (fixtures, parametrize, Page Object Model) + Selenium/SeleniumBase. Clone QA Playground repo; automate 10 tricky elements (shadow DOM, iframes, dynamic waits).
+- Week 1: PYTHON FOUNDATIONS FIRST. Automate the Boring Stuff (or CS50P, or CodeWithHarry in Hindi - pick ONE). Coming from Apex, move fast: focus on Pythonic idioms (list comprehensions, dicts, functions, exceptions, OOP, context managers). Type every example. In parallel, spin up a SF Developer Edition org and start the Trailhead Provar module.
+- Week 2: Finish Python foundation + pytest deep (fixtures, parametrize, Page Object Model) + Selenium/SeleniumBase. Clone QA Playground repo; automate 10 tricky elements (shadow DOM, iframes, dynamic waits). Write your first 5 pytest tests against the SF org.
 - Week 3: Start 30-Day SDET Challenge repo (move fast, ~2 wks) AND begin applying + interviewing. Treat interviews as practice.
 - Week 4: Build ONE portfolio project — a real test suite against a SF org, public GitHub, with README. This is your interview centerpiece.
 
